@@ -2,7 +2,7 @@
 
 Interactive Excel dashboard for business insights.
 
-![Sales Dashboard](images/sales_dashboard.png)
+![Sales Dashboard](https://github.com/Mennah-Elsheikh/Sales-Dashboard/blob/main/images/sales_dashboard%20.png)
 
 ## Tools Used
 - Excel
